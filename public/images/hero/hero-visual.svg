@@ -1,0 +1,21 @@
+<svg width="1200" height="1100" viewBox="0 0 1200 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1100" rx="48" fill="url(#paint0_linear)"/>
+  <rect x="74" y="110" width="1052" height="860" rx="32" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.18)"/>
+  <path d="M111 796C232 765 237 590 363 556C488 522 558 655 680 637C824 614 834 387 967 356C1081 330 1122 429 1122 429V847H111V796Z" fill="rgba(251, 191, 36, 0.15)"/>
+  <path d="M100 732C218 700 285 628 396 580C523 525 612 582 700 566C802 548 885 432 986 415C1061 402 1121 443 1121 443V945H100V732Z" fill="rgba(59, 130, 246, 0.17)"/>
+  <rect x="172" y="212" width="870" height="440" rx="30" fill="rgba(15, 23, 42, 0.35)" stroke="rgba(255,255,255,0.2)"/>
+  <path d="M240 618L420 382L578 542L731 330L1004 618H240Z" fill="rgba(255,255,255,0.07)"/>
+  <rect x="296" y="483" width="280" height="180" rx="26" fill="rgba(255,255,255,0.08)"/>
+  <rect x="620" y="420" width="204" height="247" rx="22" fill="rgba(255,255,255,0.08)"/>
+  <circle cx="335" cy="418" r="76" fill="rgba(250, 204, 21, 0.52)"/>
+  <circle cx="898" cy="329" r="62" fill="rgba(96, 165, 250, 0.4)"/>
+  <path d="M811 664V390H861L929 529V390H980V664H930L861 524V664H811Z" fill="#F8FAFC"/>
+  <path d="M468 383H532V664H468V383Z" fill="#F8FAFC"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="114" y1="83" x2="1080" y2="980" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C1C31"/>
+      <stop offset="0.52" stop-color="#1A2940"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+</svg>
